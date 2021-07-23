@@ -1,0 +1,22 @@
+1 tag de abertura
+2 qual o tipo de elemento
+3 pode ter um atributo que pode mudar de funcionalidade aparencia ou dizer algo ao navegador
+4 conteúdo do elemento
+5 tag de fechamento
+
+Doctype = não é um elemento HTML, apenas diz o que você está escrevendo
+html =  tudo vai estar dentro desse elemtno
+head = metainformações que o navegador/buscador necessita 
+meta = charset como vai afzer o incode dos caracteres
+title = título na aba do navegador
+body = o conteúdo da página
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta>
+		<title<>/title>
+	</head>
+	<body>
+	</body>
+</html>
